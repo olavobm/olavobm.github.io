@@ -14,4 +14,4 @@ I am currently a PhD candidate at Scripps Institution of Oceanography at Univers
 
 In my free time, I have been:
 * reading: [Ghost Rider: Travels on the Healing Road](https://en.wikipedia.org/wiki/Ghost_Rider:_Travels_on_the_Healing_Road), by Neil Peart (2002)
-* listening: [Whoosh](https://en.wikipedia.org/wiki/Whoosh!), by Deep Purple (2020).
+* listening: [Whoosh!](https://en.wikipedia.org/wiki/Whoosh!), by Deep Purple (2020).
