@@ -4,9 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## In review
-
-1.
 
 ## Peer-reviewed publications
 
