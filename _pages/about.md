@@ -13,5 +13,5 @@ I am an oceanographer who studies the physics of the ocean. To this day, I have 
 I am currently a PhD candidate at Scripps Institution of Oceanography at University of California San Diego (SIO/UCSD) and I work in the [Multiscale Ocean Dynamics group (MOD)](http://www.mod.ucsd.edu/). In my thesis research, I have been using in-situ observations to understand the energy pathways of a remote internal tide impinging on the continental slope of Tasmania (check out the [T-TIDE webpage](https://sioweb.ucsd.edu/projects/ttide/)).
 
 In my free time, I have been:
-* reading: [Ghost Rider: Travels on the Healing Road](https://en.wikipedia.org/wiki/Ghost_Rider:_Travels_on_the_Healing_Road), by Neil Peart (2002)
-* listening: [Whoosh!](https://en.wikipedia.org/wiki/Whoosh!), by Deep Purple (2020).
+* reading: [Sapiens: A Brief History of Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind), by Yuval Harari (2011)
+* listening: [Time and a Word](https://en.wikipedia.org/wiki/Time_and_a_Word), by Yes (1970).
